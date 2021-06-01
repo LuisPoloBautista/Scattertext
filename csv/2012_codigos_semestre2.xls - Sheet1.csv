@@ -1,0 +1,82 @@
+,Category,Code,,Case,Text,Coder,Date,Words,% Words,Comment,Variable
+,efectos,inundación,, 100 evacuados por tormentas,? 100 evacuados por tormenta,Admin,13/5/2020,4,"1,20%",,DOCUMENT
+,eventos meteorológicos,tormenta,, 100 evacuados por tormentas,? 100 evacuados por tormentas,Admin,13/5/2020,4,"1,20%",,DOCUMENT
+,efectos,evacuados,, 100 evacuados por tormentas,? 100 evacuados por tormentas,Admin,13/5/2020,4,"1,20%",,DOCUMENT
+,Actores,SINAE,, 100 evacuados por tormentas,SINAE recomienda extremar precauciones 100 evacuados por tormentas 100 evacuados por tormenta,Admin,13/5/2020,12,"3,60%",,DOCUMENT
+,respuestas,ayuda damnificados,, 100 evacuados por tormentas,SINAE recomienda extremar precauciones 100 evacuados por tormentas 100 evacuados por tormentas,Admin,13/5/2020,12,"3,60%",,DOCUMENT
+,efectos,evacuados,, 100 evacuados por tormentas,SINAE recomienda extremar precauciones 100 evacuados por tormentas 100 evacuados por tormentas,Admin,13/5/2020,12,"3,60%",,DOCUMENT
+,efectos,evacuados,, 50 evacuados en Montevideo,? 50 evacuados en Montevideo,Admin,13/5/2020,4,"1,10%",,DOCUMENT
+,efectos,inundación,, 50 evacuados en Montevideo,? 50 evacuados en Montevideo,Admin,13/5/2020,4,"1,10%",,DOCUMENT
+,efectos,inundación,, 57 evacuados en todo el país.,? 57 evacuados en todo el país.,Admin,13/5/2020,6,"2,20%",,DOCUMENT
+,efectos,evacuados,, 57 evacuados en todo el país.,? 57 evacuados en todo el país.,Admin,13/5/2020,6,"2,20%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Advertencia amarilla por tormentas,?Advertencia amarilla por tormentas,Admin,13/5/2020,4,"1,40%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Alerta Naranja por tormentas,?Alerta Naranja por tormentas,Admin,13/5/2020,4,"1,10%",,DOCUMENT
+,efectos,evacuados,, Alerta Naranja por vientos y 92 evacuados,?Alerta Naranja por vientos y 92 evacuados,Admin,13/5/2020,7,"1,70%",,DOCUMENT
+,eventos meteorológicos,viento,, Alerta Naranja por vientos y 92 evacuados,?Alerta Naranja por vientos y 92 evacuados,Admin,13/5/2020,7,"1,70%",,DOCUMENT
+,eventos meteorológicos,viento,, Alerta por tormenta y vientos_180486,?Alerta por tormenta y vientos,Admin,13/5/2020,5,"1,40%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Alerta por tormenta y vientos_180486,?Alerta por tormenta y vientos,Admin,13/5/2020,5,"1,40%",,DOCUMENT
+,respuestas,ayuda damnificados,, Alerta por tormenta y vientos_180486,Recomendaciones del SIN,Admin,13/5/2020,3,"0,90%",,DOCUMENT
+,eventos meteorológicos,viento,, Alerta por tormenta y vientos_180486,Recomendaciones del SINA,Admin,13/5/2020,3,"0,90%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Alerta por tormenta y vientos_180486,Recomendaciones del SINAE,Admin,13/5/2020,3,"0,90%",,DOCUMENT
+,Actores,SINAE,, Alerta por tormenta y vientos_180486,Recomendaciones del SINAE,Admin,13/5/2020,3,"0,90%",,DOCUMENT
+,eventos meteorológicos,ola de calor,, Anuncian aumento de temperatura y tormentas,?Anuncian aumento de temperatura y tormentas,Admin,13/5/2020,6,"2,20%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Anuncian aumento de temperatura y tormentas,?Anuncian aumento de temperatura y tormentas,Admin,13/5/2020,6,"2,20%",,DOCUMENT
+,efectos,árboles caídos,, Árboles caídos por el temporal,? Árboles caídos por el temporal,Admin,13/5/2020,5,"1,30%",,DOCUMENT
+,eventos meteorológicos,viento,, Árboles caídos por el temporal,? Árboles caídos por el temporal,Admin,13/5/2020,5,"1,30%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Artigas_ sube nivel del río Cuareim,Evacuado,Admin,13/5/2020,1,"0,30%",,DOCUMENT
+,efectos,inundación,, Artigas_ sube nivel del río Cuareim,Evacuados,Admin,13/5/2020,1,"0,30%",,DOCUMENT
+,efectos,evacuados,, Artigas_ sube nivel del río Cuareim,Evacuados,Admin,13/5/2020,1,"0,30%",,DOCUMENT
+,efectos,rutas cortadas,, Calles cortadas y árboles caídos,Calles cortadas y árboles caído,Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,eventos meteorológicos,viento,, Calles cortadas y árboles caídos,Calles cortadas y árboles caídos,Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,efectos,árboles caídos,, Calles cortadas y árboles caídos,Calles cortadas y árboles caídos,Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,efectos,inundación,, Casi 800 evacuados en el país,?Casi 800 evacuados en el país alerta naranja meteorológic,Admin,13/5/2020,9,"2,80%",,DOCUMENT
+,efectos,evacuados,, Casi 800 evacuados en el país,?Casi 800 evacuados en el país alerta naranja meteorológica,Admin,13/5/2020,9,"2,80%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Casi 800 evacuados en el país,?Casi 800 evacuados en el país alerta naranja meteorológica,Admin,13/5/2020,9,"2,80%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Casi 800 evacuados en el país,Rutas cortadas y servicios afectado,Admin,13/5/2020,5,"1,60%",,DOCUMENT
+,efectos,inundación,, Casi 800 evacuados en el país,Rutas cortadas y servicios afectados,Admin,13/5/2020,5,"1,60%",,DOCUMENT
+,efectos,rutas cortadas,, Casi 800 evacuados en el país,Rutas cortadas y servicios afectados,Admin,13/5/2020,5,"1,60%",,DOCUMENT
+,efectos,evacuados,, Cientos de evacuados en el norte del país,?Cientos de evacuados en el norte del paí,Admin,13/5/2020,8,"2,30%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Cientos de evacuados en el norte del país,?Cientos de evacuados en el norte del país,Admin,13/5/2020,8,"2,30%",,DOCUMENT
+,efectos,inundación,, Cientos de evacuados en el norte del país,?Cientos de evacuados en el norte del país,Admin,13/5/2020,8,"2,30%",,DOCUMENT
+,efectos,rutas cortadas,, Cientos de evacuados en el norte del país,Ocho rutas cortada,Admin,13/5/2020,3,"0,90%",,DOCUMENT
+,efectos,inundación,, Cientos de evacuados en el norte del país,Ocho rutas cortadas,Admin,13/5/2020,3,"0,90%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Cientos de evacuados en el norte del país,Ocho rutas cortadas,Admin,13/5/2020,3,"0,90%",,DOCUMENT
+,efectos,inundación,, Cifra de evacuados descendió a 1425,?Cifra de evacuados descendió a 1425,Admin,13/5/2020,6,"2,10%",,DOCUMENT
+,efectos,evacuados,, Cifra de evacuados descendió a 1425,?Cifra de evacuados descendió a 1425,Admin,13/5/2020,6,"2,10%",,DOCUMENT
+,efectos,inundación,, Cinco rutas permanecen cortadas,?Cinco rutas permanecen cortadas,Admin,13/5/2020,4,"1,40%",,DOCUMENT
+,efectos,rutas cortadas,, Cinco rutas permanecen cortadas,?Cinco rutas permanecen cortadas,Admin,13/5/2020,4,"1,40%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Complicaciones por las lluvias,?Complicaciones por las lluvias,Admin,13/5/2020,4,"1,10%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Complicaciones por las lluvias_182246,?Complicaciones por las lluvias,Admin,13/5/2020,4,"1,10%",,DOCUMENT
+,efectos,evacuados,, Evacuados en Montevideo y Pando,?Evacuados en Montevideo y Pando,Admin,13/5/2020,5,"1,90%",,DOCUMENT
+,efectos,inundación,, Evacuados en Montevideo y Pando,?Evacuados en Montevideo y Pando,Admin,13/5/2020,5,"1,90%",,DOCUMENT
+,respuestas,soluciones ciudad,, Evacuados y cortes de energía,?Evacuados y cortes de ene,Admin,13/5/2020,5,"1,80%",,DOCUMENT
+,efectos,destrozos,, Evacuados y cortes de energía,?Evacuados y cortes de ener,Admin,13/5/2020,5,"1,80%",,DOCUMENT
+,efectos,destrozos,, Evacuados y cortes de energía,?Evacuados y cortes de energ,Admin,13/5/2020,5,"1,80%",,DOCUMENT
+,efectos,inundación,, Evacuados y cortes de energía,?Evacuados y cortes de energí,Admin,13/5/2020,5,"1,80%",,DOCUMENT
+,eventos meteorológicos,viento,, Evacuados y cortes de energía,?Evacuados y cortes de energía,Admin,13/5/2020,5,"1,80%",,DOCUMENT
+,efectos,evacuados,, Evacuados y cortes de energía,?Evacuados y cortes de energía,Admin,13/5/2020,5,"1,80%",,DOCUMENT
+,efectos,rutas cortadas,," Evacuados, destrozos y rutas cortadas","?Evacuados, destrozos y rutas corta",Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,efectos,destrozos,," Evacuados, destrozos y rutas cortadas","?Evacuados, destrozos y rutas cortad",Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,eventos meteorológicos,lluvia,," Evacuados, destrozos y rutas cortadas","?Evacuados, destrozos y rutas cortada",Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,eventos meteorológicos,viento,," Evacuados, destrozos y rutas cortadas","?Evacuados, destrozos y rutas cortadas",Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,efectos,evacuados,," Evacuados, destrozos y rutas cortadas","?Evacuados, destrozos y rutas cortadas",Admin,13/5/2020,5,"1,50%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Lluvias entre lunes y martes,?Lluvias entre lunes y martes,Admin,13/5/2020,5,"1,70%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Lluvias para el sábado,?Lluvias para el sábado,Admin,13/5/2020,4,"1,30%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Lluvias para las fiestas,?Lluvias para las fiestas,Admin,13/5/2020,4,"1,20%",,DOCUMENT
+,efectos,inundación,, Lluvias_ 33 evacuados en Soriano,?Lluvias: 33 evacuados en Soriano,Admin,13/5/2020,5,"2,20%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Lluvias_ 33 evacuados en Soriano,?Lluvias: 33 evacuados en Soriano,Admin,13/5/2020,5,"2,20%",,DOCUMENT
+,efectos,evacuados,, Lluvias_ 33 evacuados en Soriano,?Lluvias: 33 evacuados en Sorian,Admin,13/5/2020,5,"2,20%",,DOCUMENT
+,efectos,inundación,, Lluvias_ 33 evacuados en Soriano,?Lluvias: 33 evacuados en Soriano,Admin,13/5/2020,5,"2,20%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Lluvias_ 33 evacuados en Soriano,?Lluvias: 33 evacuados en Soriano,Admin,13/5/2020,5,"2,20%",,DOCUMENT
+,efectos,inundación,, Lluvias_ decenas de evacuados en Durazno,?Lluvias: decenas de evacuados en Durazn,Admin,13/5/2020,6,"1,90%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Lluvias_ decenas de evacuados en Durazno,?Lluvias: decenas de evacuados en Durazno,Admin,13/5/2020,6,"1,90%",,DOCUMENT
+,efectos,evacuados,, Lluvias_ decenas de evacuados en Durazno,?Lluvias: decenas de evacuados en Durazno,Admin,13/5/2020,6,"1,90%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Meteorología_ lluvias para el domingo,?Meteorología: lluvias para el domingo,Admin,13/5/2020,5,"1,70%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Paysandú_ evacuados por inundaciones,?Paysandú: evacuados por inundacione,Admin,13/5/2020,4,"1,40%",,DOCUMENT
+,efectos,evacuados,, Paysandú_ evacuados por inundaciones,?Paysandú: evacuados por inundaciones,Admin,13/5/2020,4,"1,40%",,DOCUMENT
+,efectos,inundación,, Paysandú_ evacuados por inundaciones,?Paysandú: evacuados por inundaciones,Admin,13/5/2020,4,"1,40%",,DOCUMENT
+,efectos,rutas cortadas,, Rutas cortadas en trece puntos y más de 1200 evacuados,?Rutas cortadas en trece puntos y más de 1200 evacuad,Admin,13/5/2020,10,"3,20%",,DOCUMENT
+,efectos,inundación,, Rutas cortadas en trece puntos y más de 1200 evacuados,?Rutas cortadas en trece puntos y más de 1200 evacuado,Admin,13/5/2020,10,"3,20%",,DOCUMENT
+,efectos,evacuados,, Rutas cortadas en trece puntos y más de 1200 evacuados,?Rutas cortadas en trece puntos y más de 1200 evacuados,Admin,13/5/2020,10,"3,20%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Rutas cortadas en trece puntos y más de 1200 evacuados,?Rutas cortadas en trece puntos y más de 1200 evacuados,Admin,13/5/2020,10,"3,20%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Semana de lluvias,?Semana de lluvias,Admin,13/5/2020,3,"1,00%",,DOCUMENT

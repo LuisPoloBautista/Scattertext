@@ -1,0 +1,17 @@
+,Category,Code,,Case,Text,Coder,Date,Words,% Words,Comment,Variable
+,eventos meteorológicos,tormenta,, Advertencia amarilla por tormentas,?Advertencia amarilla por tormentas,Admin,12/5/2020,4,"1,30%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Advertencia por tormentas intensas,?Advertencia por tormentas intensas,Admin,12/5/2020,4,"1,30%",,DOCUMENT
+,efectos,inundación,, Alerta amarilla por precipitaciones,Evacuado,Admin,12/5/2020,1,"0,30%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Alerta amarilla por precipitaciones,Evacuados,Admin,12/5/2020,1,"0,30%",,DOCUMENT
+,efectos,evacuados,, Alerta amarilla por precipitaciones,Evacuados,Admin,12/5/2020,1,"0,30%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Alerta amarilla por tormentas intensas,?Alerta amarilla por tormentas intensas,Admin,12/5/2020,5,"1,80%",,DOCUMENT
+,eventos meteorológicos,ola de calor,, Alerta por calor y tormentas,?Alerta por calor y tormentas,Admin,12/5/2020,5,"1,70%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Alerta por calor y tormentas,?Alerta por calor y tormentas,Admin,12/5/2020,5,"1,70%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Meteorología prevé lluvias y tormentas hasta el martes,?Meteorología prevé lluvias y tormentas hasta el martes,Admin,12/5/2020,8,"2,60%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Meteorología prevé lluvias y tormentas hasta el martes,?Meteorología prevé lluvias y tormentas hasta el martes,Admin,12/5/2020,8,"2,60%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Meteorología_ lluvias el fin de semana,?Meteorología: lluvias el fin de semana,Admin,12/5/2020,6,"2,10%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Meteorología_ tormentas intensas,?Meteorología: tormentas intensas,Admin,12/5/2020,3,"0,90%",,DOCUMENT
+,efectos,evacuados,, Montevideo_ 13 evacuados,?Montevideo: 13 evacuados,Admin,12/5/2020,3,"1,20%",,DOCUMENT
+,efectos,inundación,, Montevideo_ 13 evacuados,?Montevideo: 13 evacuados,Admin,12/5/2020,3,"1,20%",,DOCUMENT
+,eventos meteorológicos,lluvia,, Precipitaciones y tormentas aisladas hasta el martes,?Precipitaciones y tormentas aisladas hasta el martes,Admin,12/5/2020,7,"2,30%",,DOCUMENT
+,eventos meteorológicos,tormenta,, Precipitaciones y tormentas aisladas hasta el martes,?Precipitaciones y tormentas aisladas hasta el martes,Admin,12/5/2020,7,"2,30%",,DOCUMENT
